@@ -13,13 +13,18 @@ Shows locally a dashboard of chosen things, like
 
 
 
-# todo 
+## todo 
 
 You (probably) need to clone mozaik-demo first, and then copy contents from here over it.
 
+> npm install 
 
-npm install 
-gulp build
-node app.js
+> gulp build
 
+> node app.js
+
+
+## Other remarks
+
+Has been seen to work on my machine, windows 7, with npm 2.15.1 & node 4.4.3 
 
